@@ -146,16 +146,6 @@ I'm currently working on **edQorta**, a real estate solution. The foundational t
 
 </div>
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **[Certification/Achievement Name]** - [Issuing Organization, Year]
-- 🥈 **[Hackathon/Competition Win]** - [Event Name, Year]
-- 🎓 **[Relevant Course/Certification]** - [Platform, Year]
-- 🌟 **[Notable Achievement]** - [Description]
-
----
 
 ## 📫 Let's Connect
 
