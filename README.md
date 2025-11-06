@@ -108,7 +108,7 @@ Real degens, real hype, real pumps.Tokens are for the crowd — you decide who�
 
 **Code Upgrading**
 
-🔗 **[Live Demo New ](http://pumpevm.vercel.app/launchpad/base)** | 📊 **[Live Demo Old](https://www.intuition.pumpevm.cloud/)**
+🔗 **[ New Live Demo](http://pumpevm.vercel.app/launchpad/base)** | 📊 **[ Old Live Demo](https://www.intuition.pumpevm.cloud/)**
 
 ---
 
